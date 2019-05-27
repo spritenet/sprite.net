@@ -1,2 +1,4 @@
 # sprite.net
-Free csgo cheats
+private
+csgo cheats
+
